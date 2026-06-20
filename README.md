@@ -29,7 +29,6 @@ Explore my work, projects, and professional profile here:
 
 ## 📫 Connect With Me
 
-- GitHub: [Sabelo-Sabs](https://github.com/Sabelo-Sabs)
 - LinkedIn: [Sibabalwe Sinyaniso](https://www.linkedin.com/in/sibabalwe-sinyaniso)
 - Medium: [@sibabalwesinyaniso](https://medium.com/@sibabalwesinyaniso)
 
