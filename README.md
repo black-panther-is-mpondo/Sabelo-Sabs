@@ -1,36 +1,36 @@
-### Hi there 👋 My name is Sibabalwe Sinyaniso and I'm interested in exploring the Python Programming Language 🐍.
+# Hi there 👋 I'm Sibabalwe Sinyaniso
 
-![Black and Gray Gradient Professional Presentation](https://github.com/Sabelo-Sabs/Sabelo-Sabs/assets/83790438/b5624a97-3566-4214-98d3-be7eb6643b4f)
-> The happiest people spend much time in a state of flow - the state in which people are so involved in an activity that nothing else seems to matter; the experience itself is so enjoyable that people will do it even at great cost, for the sheer sake of doing it. ~ Mihaly Csikszentmihalyi
------
-<details>
-<summary>My top open-source Python frameworks</summary>
+I'm passionate about Python programming, data engineering, automation, and building digital solutions that solve real problems.
 
-| Rank | Languages |
-|-----:|-----------|
-|     1| Flask 🌐|
-|     2| Apache Airflow💨🔄|
+I am the Founder and CEO of [Tita & Mboth Digital Studio](https://github.com/tita-mbotho-studio), a digital studio focused on creating practical, modern, and impactful technology solutions.
 
-</details>
+> “The happiest people spend much time in a state of flow — the state in which people are so involved in an activity that nothing else seems to matter.”  
+> — Mihaly Csikszentmihalyi
 
-<details>
-<summary>My other passions</summary>
+---
 
-- <a href="https://medium.com/@sibabalwesinyaniso">Writer</a>
+## 🚀 What I Do
 
-</details>
+- Python development
+- Data engineering and automation
+- Web development
+- Digital product building
+- Technical writing and continuous learning
 
-<!--
-**Sabelo-Sabs/Sabelo-Sabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌐 Portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Explore my work, projects, and professional profile here:
+
+[Visit My Portfolio](https://tita-mbotho-studio.github.io/sibabalwe-portfolio/)
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: [Sabelo-Sabs](https://github.com/Sabelo-Sabs)
+- LinkedIn: [Sibabalwe Sinyaniso](https://www.linkedin.com/in/sibabalwe-sinyaniso)
+- Medium: [@sibabalwesinyaniso](https://medium.com/@sibabalwesinyaniso)
+
+---
