@@ -31,5 +31,6 @@ Explore my work, projects, and professional profile here:
 
 - LinkedIn: [Sibabalwe Sinyaniso](https://www.linkedin.com/in/sibabalwe-sinyaniso)
 - Medium: [@sibabalwesinyaniso](https://medium.com/@sibabalwesinyaniso)
+- Gumroad: [sibabalwe23.gumroad.com](https://sibabalwe23.gumroad.com/)
 
 ---
